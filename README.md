@@ -1,5 +1,5 @@
 # Which Evolutionary Game-Theoretic Model Best Captures NSCLC Dynamics?
-## data 
+## Data 
 - train_dataset.pickle contains the preprocessed cell population data.
 - The Excel files contain the estimated parameter values for carrying capacity, growth rate, and drug efficacy parameters from one population models.
 ## Model
